@@ -4,3 +4,4 @@ Saw a query on yammer regarding the conversion of Oracle SQL datamodel to Cassan
 Existing Oracle Model ::
 
 
+![Model to Answer the Queries](/cassandra-data-model.png?raw=true "Optional Title")
