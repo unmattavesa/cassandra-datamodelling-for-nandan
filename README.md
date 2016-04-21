@@ -1,8 +1,11 @@
-# cassandra-datamodelling-for-nandan
+# cassandra-datamodelling-for-yammer-friend
 Saw a query on yammer regarding the conversion of Oracle SQL datamodel to Cassandra NoSQL datamodel.
+
+----
 
 Existing Oracle Model ::
 
+![alt tag](./oracle-data-model.png "Existing Oracle Data Model")
 
 ### Queries That Cassandra Model Needs to Answer ::
 <dl>
@@ -15,4 +18,4 @@ Existing Oracle Model ::
 
 ### Cassandra Data Model In Action ::
 
-![alt tag](./cassandra-data-model.png "Description goes here")
+![alt tag](./cassandra-data-model.png "Cassandra Data Model Solution")
