@@ -7,6 +7,10 @@ Existing Oracle Model ::
 
 ![alt tag](./oracle-data-model.png "Existing Oracle Data Model")
 
+
+----
+
+
 ### Queries That Cassandra Model Needs to Answer ::
 <dl>
   <dd>1. Get the title and desc of all the items that a particular user likes</dd>
