@@ -6,23 +6,10 @@ Existing Oracle Model ::
 
 ### Queris That Cassandra Model Needs to Answer ::
 <dl>
-  <dd>Get the title and desc of all the items that a particular user likes</dd>
+  <dd>1. Get the title and desc of all the items that a particular user likes</dd>
   
-  <dd>Get the name and email of all the users who like a particular item</dd>
+  <dd>2. Get the name and email of all the users who like a particular item</dd>
 </dl>
 
-
-
-
-### Queris That Cassandra Model Needs to Answer ::
-
-..* Get the title and desc of all the items that a particular user likes
-
-..* Get the name and email of all the users who like a particular item
-
-
-
-
-![Model to Answer the Queries](./cassandra-data-model.png?raw=true "Optional Title")
 
 ![alt tag](./cassandra-data-model.png "Description goes here")
