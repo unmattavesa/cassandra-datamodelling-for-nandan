@@ -5,6 +5,16 @@ Existing Oracle Model ::
 
 
 
+<dl>
+  <dt>### Queris That Cassandra Model Needs to Answer ::</dt>
+  <dd>Get the title and desc of all the items that a particular user likes</dd>
+  
+  <dd>Get the name and email of all the users who like a particular item</dd>
+</dl>
+
+
+
+
 ### Queris That Cassandra Model Needs to Answer ::
 
 ..* Get the title and desc of all the items that a particular user likes
