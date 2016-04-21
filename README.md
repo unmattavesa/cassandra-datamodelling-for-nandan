@@ -6,7 +6,9 @@ Existing Oracle Model ::
 
 
 ### Queris That Cassandra Model Needs to Answer ::
+
 ..* Get the title and desc of all the items that a particular user likes
+
 ..* Get the name and email of all the users who like a particular item
 
 
