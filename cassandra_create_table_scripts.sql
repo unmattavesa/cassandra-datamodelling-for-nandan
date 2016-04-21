@@ -1,4 +1,6 @@
  
+ 
+ 
 CREATE KEYSPACE IF NOT EXISTS narayan_ks1 WITH replication = {'class': 'SimpleStrategy', 'replication_factor': '1'}  AND durable_writes = true;
 
 CREATE TABLE IF NOT EXISTS narayan_ks1.items (
@@ -26,3 +28,6 @@ CREATE TABLE IF NOT EXISTS narayan_ks1.items_liked_by_user (
     description text,
     title text
 )
+
+
+
