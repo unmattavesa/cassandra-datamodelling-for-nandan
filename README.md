@@ -1,5 +1,6 @@
 # cassandra-datamodelling-for-yammer-friend
 Saw a query on yammer regarding the conversion of Oracle SQL datamodel to Cassandra NoSQL datamodel.
+And here is my approach.
 
 ----
 
